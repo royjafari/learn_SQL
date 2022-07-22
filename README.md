@@ -1,2 +1,4 @@
 # learn_SQL
-repository for the YouTube videos 
+Repository for the YouTube videos:
+- https://youtu.be/NtHhD197TSE
+- 
